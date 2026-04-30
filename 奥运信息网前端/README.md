@@ -1,5 +1,5 @@
 # 奥运信息网
-#hellowordwsladkfjlkasjdfkljsdaf
+#ASDFASDFASDFASDFASDFASDFASDF
 1. ## 检查开发环境
    ```batchfile
    node -v //node版本大于16
